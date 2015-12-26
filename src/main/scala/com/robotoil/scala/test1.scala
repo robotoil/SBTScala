@@ -5,6 +5,7 @@ object test1 {
 
     println("\nHello. I am starting the program now.\n")
 
+    //------------
 
     class Upper {
       def upper(strings: String*): Seq[String] = {
@@ -14,6 +15,15 @@ object test1 {
     Console.println(up.upper("A", "First", "Scala", "Program"))
 
     //--------
+
+
+
+
+
+
+
+
+
 
 println("\ngoodbye.\n")
 
